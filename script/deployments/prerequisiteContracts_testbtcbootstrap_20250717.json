@@ -1,0 +1,9 @@
+{
+  "clientChain": {
+    "beaconOracle": "0x4820629169d5D024F921e4aA6ae2a77Ca4872151",
+    "beaconProxyBytecode": "0xb9776c0780a22c39c6a03ED8B5a29fd83fF44BC3",
+    "erc20Token": "0x80E5bb3A04554E54b40Dd6e14ca0F97212d9428d",
+    "lzEndpoint": "0x1329B482aF41e8d5Af7efAC417579e8f049B4E5b",
+    "wstETH": "0x32118ebD4b82A84B0f13218dbA41f352CC7c2923"
+  }
+}

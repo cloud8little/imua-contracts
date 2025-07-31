@@ -1,0 +1,20 @@
+{
+  "clientChain": {
+    "beaconOracle": "0x4820629169d5D024F921e4aA6ae2a77Ca4872151",
+    "beaconProxyBytecode": "0xb9776c0780a22c39c6a03ED8B5a29fd83fF44BC3",
+    "bootstrap": "0xA35F53AAdc23c333A5722CDc6e802Fd05d29c0e2",
+    "bootstrapLogic": "0x5622E3ABbeEEa7899Ba0F31Df4C183A7e71Ed673",
+    "capsuleBeacon": "0x3051F34Bd7aAC4fD99B02cF935A0E829DEF807B7",
+    "capsuleImplementation": "0x4EA70D8EeBe3b0E3F4D65b41093B556bC04bA722",
+    "clientGatewayLogic": "0x98dD362A84F41388D5775A8030fe02035BE08930",
+    "erc20Token": "0x80E5bb3A04554E54b40Dd6e14ca0F97212d9428d",
+    "lzEndpoint": "0x1329B482aF41e8d5Af7efAC417579e8f049B4E5b",
+    "proxyAdmin": "0x4938E65CcBd69b2C91922A8dE6386d2A00EdD04E",
+    "rewardVaultBeacon": "0x778F0d51698139c03926eA234Fc5e5C404174356",
+    "rewardVaultImplementation": "0x13DCD9e86c2362cfc5400495E9078593677f69cA",
+    "vaultBeacon": "0x0094EC4eF54a0d92f060fF272F8373c5EbEF5A82",
+    "vaultImplementation": "0x799B58EBdF0e7AE4906AC91cE2Fd3af3e63240fb",
+    "wstETH": "0x32118ebD4b82A84B0f13218dbA41f352CC7c2923",
+    "networkConfig": "0x52A83C3c4ca789CeaffD2Efd8AA14910A1E5FebB"
+  }
+}

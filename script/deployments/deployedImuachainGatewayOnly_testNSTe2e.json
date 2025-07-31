@@ -1,0 +1,8 @@
+{
+  "imuachain": {
+    "imuachainGateway": "0x295a2e02bFf3cF71D98E471FEAd8E16bb089FbAe",
+    "imuachainGatewayLogic": "0xa08957296C1D29c86A0E97Cd42895E4d1d0Cf2f1",
+    "imuachainProxyAdmin": "0xd1825f2c39c06D8b0830e7db97d4e7b31AE5dC19",
+    "lzEndpoint": "0xb53a20d516386F7Bb6a12CD73b115E916a4cFdf3"
+  }
+}
