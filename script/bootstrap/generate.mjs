@@ -1071,7 +1071,7 @@ async function updateGenesisFile() {
 
     // iterate over all stakers, then all assets, then all operators
     const delegation_states = genesisJSON.app_state.delegation.delegation_states;
-    const stakers_by_operator = [];
+    const stakers_by_operator = genesisJSON.app_state.delegation.stakers_by_operator || [];
     const stakerListMap = new Map();
     for (let i = 0; i < depositorsCount; i++) {
       const staker = await myContract.methods.depositors(i).call();
